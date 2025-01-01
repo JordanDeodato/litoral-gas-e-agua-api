@@ -11,10 +11,10 @@ namespace LitoralGasEAgua.Models
         public long Id { get; set; }
 
         [Column("name")]
-        public required String Name { get; set; }
+        public required string Name { get; set; }
 
         [Column("description")]
-        public required String Description { get; set; }
+        public required string Description { get; set; }
 
         [Column("brand_id")]
         public required int BrandId { get; set; }

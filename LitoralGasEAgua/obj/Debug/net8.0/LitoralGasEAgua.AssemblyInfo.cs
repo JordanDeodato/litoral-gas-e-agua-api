@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LitoralGasEAgua")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06d024c5057f35bac89ac890b11883699a94d676")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df051eb9e663b12f04fe1f7650a2706e243e76fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("LitoralGasEAgua")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LitoralGasEAgua")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

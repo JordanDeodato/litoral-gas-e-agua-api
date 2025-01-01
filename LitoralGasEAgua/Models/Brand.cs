@@ -11,9 +11,9 @@ namespace LitoralGasEAgua.Models
         public int Id { get; set; }
 
         [Column("name")]
-        public required String Name { get; set; }
+        public required string Name { get; set; }
 
         [Column("description")]
-        public required String Description { get; set; }
+        public required string Description { get; set; }
     }
 }
